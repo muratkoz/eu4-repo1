@@ -1,3 +1,3 @@
-hello again eu4
+hello eu4
 
 eu4 is learning git
